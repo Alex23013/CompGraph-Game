@@ -1,0 +1,24 @@
+0) pasar todo a 2.1
+
+1) personaje y el escenario
+
+2) fondo es una imagen larga que se va a repetir
+  2.1) hacer que un objeto se muevan en el escenario 
+3) movimientos del personajes: 
+  3.1) salte (bonito)
+  3.2) agache (cambiarlo de sentido)
+  3.3) asignar botones
+ 
+4) obstaculos en el piso
+  4.1) lector del escenario dinamico (paredes/huecos/bolas de fuego/ powerups/monedas)
+  4.2) crear la funcionalidad de los obstaculos
+  4.3) colisiones
+6) crear la funcionalidad de las monedas y los power ups
+7) crear la funcionalidad de las Bolas de fuego
+8) sprite y texturas
+
+9) efecto de sonidos
+10) ver puntuacion y power ups
+11) mostrar barra de progreso del nivel
+12) obstaculos adicionales
+
